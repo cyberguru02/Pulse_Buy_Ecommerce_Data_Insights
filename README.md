@@ -1,4 +1,4 @@
-# Pulse Buy Ecommerce_Data Insights
+# Pulse Buy Ecommerce Data Insights
 
 
 # Project Summary
