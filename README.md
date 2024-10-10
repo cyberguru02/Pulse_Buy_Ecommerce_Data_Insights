@@ -29,7 +29,7 @@ Utilizing Excel, I conducted a comprehensive analysis of broad trends to extract
 Employing SQL, I derived targeted insights tailored for the finance and marketing teams. This involved an in-depth examination of product sales, purchase platform, and identifying the most effective marketing channels. Notably, I pinpointed products with the highest refund rates and analyzed regional sales trends for key offerings.
 
   
-- **Part 3: Data Analysis with Pandas**
+- **Part 3: Data Analysis (Python)**
 
 I leveraged Pandas in Python to execute advanced statistical analysis and efficiently manipulate large datasets. This facilitated the cleaning and transformation of data, calculation of summary statistics, and identification of correlations among various metrics, including revenue, order values, and customer behavior. The aggregation functions in Pandas were instrumental in uncovering hidden patterns, such as trends in refund rates and fluctuations in product popularity over time.
 
@@ -168,7 +168,7 @@ INNER JOIN initial_order_cte ON customers.customer_id = initial_order_cte.custom
 
 
 
-### Part 3: Data Analysis with Pandas:
+### Part 3: Data Analysis (Python):
 
 
 - 	Predicted Deliver Days Per Item:
