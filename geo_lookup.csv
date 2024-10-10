@@ -1,0 +1,12 @@
+country,currency_code,region
+AU,AUD,AUS
+BR,BRL,SAM
+CA,CAD,NAM
+DE,EUR,EUR
+FR,EUR,EUR
+GB,GBP,EUR
+IN,INR,ASI
+JP,JPY,ASI
+MX,MXN,NAM
+US,USD,NAM
+,,
