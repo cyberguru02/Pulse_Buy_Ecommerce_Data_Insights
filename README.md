@@ -1,10 +1,10 @@
-# Pulse_Buy_Ecommerce_Data_Insights
+# Pulse Buy Ecommerce_Data Insights
 
 
 # Project Summary
-PulseBuy is a global e-commerce platform specializing in popular electronics, delivering top-tier products to customers around the world. As part of my analysis, I worked on a dataset that combined real-world data, randomly generated data, to uncover critical business insights.
+Pulse Buy is a global e-commerce platform specializing in popular electronics, delivering top-tier products to customers around the world. As part of my analysis, I worked on a dataset that combined real-world data, randomly generated data, to uncover critical business insights.
 
-In this project, I investigated key areas of PulseBuy's performance, including:
+In this project, I investigated key areas of Pulse Buy's performance, including:
 
 - 	Revenue growth trends
 - 	Average Order Value (AOV
@@ -291,7 +291,7 @@ For this section, I primarily utilized Tableau, along with MySQL employed to gen
   
 - **Part 5: Recommendations & Next Steps**
 
-- Enhance Product Descriptions for Better Customer Engagement: Improving product descriptions on PulseBuy should be a top priority. By focusing on creating clear, engaging, and detailed descriptions, you can enhance customer experience and boost conversions. One strategy to consider is using a combination of vivid imagery and concise yet informative content, similar to successful e-commerce platforms like Amazon or Best Buy. These retailers optimize descriptions to address key customer concerns while highlighting the benefits of the product.
+- Enhance Product Descriptions for Better Customer Engagement: Improving product descriptions on Pulse Buy should be a top priority. By focusing on creating clear, engaging, and detailed descriptions, you can enhance customer experience and boost conversions. One strategy to consider is using a combination of vivid imagery and concise yet informative content, similar to successful e-commerce platforms like Amazon or Best Buy. These retailers optimize descriptions to address key customer concerns while highlighting the benefits of the product.
 
 - Leverage Data-Driven Insights for Targeted Marketing: Utilize data gathered from the Python scripts and analysis to refine marketing strategies. Identifying patterns, correlations, and customer preferences will allow for more personalized and focused advertising and product recommendations, helping to increase customer retention and low-popular product sales. 
 
